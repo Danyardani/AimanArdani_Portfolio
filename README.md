@@ -1,5 +1,5 @@
-# My_Portfolio
-My example data science portfolio
+# AimanArdani_Portfolio
+My data science portfolio
 
 # [Project 1: hello-world](https://github.com/Danyardani/hello-world)
 My first GitHub project!
