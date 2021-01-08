@@ -1,2 +1,2 @@
 # My_Portfolio
-My data science example portfolio
+My example data science portfolio
